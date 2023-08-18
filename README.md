@@ -1,4 +1,4 @@
-# Aprendendohtml
+# Aprendendo html
 
 
 ##
@@ -10,8 +10,9 @@
 </head>
 <body>
     <h1>Olá, mundo!</h1>
-    <p>Este é um parágrafo de exemplo.</p>
+    <p>Esse é um inicio de aprendizagem em HTML.</p>
     <img src="imagem.jpg" alt="Imagem de exemplo">
 </body>
 </html>
+
 
