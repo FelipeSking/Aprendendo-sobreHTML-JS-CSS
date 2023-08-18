@@ -11,7 +11,7 @@
 <body>
     <h1>Olá, mundo!</h1>
     <p>Esse é um inicio de aprendizagem em HTML.</p>
-    <img src="imagem.jpg" alt="Imagem de exemplo">
+    <img src="html5-logo-7.png" alt="Imagem de exemplo">
 </body>
 </html>
 
