@@ -1,4 +1,4 @@
-# Aprendendo html 
+# Aprendendo sobre HTML E JS E CSS
 <img src="html5-logo-7.png" alt="Imagem de exemplo">
 
 # HTML (Hypertext Markup Language):
